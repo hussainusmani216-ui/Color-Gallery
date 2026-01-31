@@ -1,0 +1,403 @@
+/* CSS */
+.heading-container {
+    text-align: center;
+    margin: 40px 0;
+}
+
+/* Heading with gradient text */
+.gallery-heading {
+    font-size: 2.5em;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(90deg, #ff7f50, #19beff, #bfff00, #ff00ff, #ffd900);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+}
+
+/* Gradient line below the heading */
+.gradient-line {
+    height: 6px;
+    width: 60%;
+    margin: 10px auto 0 auto;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #ff7f50, #19beff, #bfff00, #ff00ff, #ffd900);
+}
+
+.box1 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+            height: 100px;
+            background-color: hsl(16, 100%, 67%);
+            /* border: 2px solid black; */
+            padding: 20px;
+            text-align: center;
+            margin:21px;
+            line-height: 90px; /* centers text vertically */
+            border-radius: 20px;
+        }
+        .box2 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+            height: 100px;
+            background-color: #19beff;
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 21px;
+            text-align: center;
+            border-radius: 20px;
+
+            line-height: 90px; /* centers text vertically */
+        }
+    .box3 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+            height: 100px;
+            background-color: #bfff00;
+
+            border-radius: 20px;
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 21px;
+            text-align: center;
+            line-height: 90px; /* centers text vertically */
+        }
+    .box4 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+
+            border-radius: 20px;
+            height: 100px;
+            background-color: #ff00ff;
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 21px;
+            text-align: center;
+            line-height: 90px; /* centers text vertically */
+        }
+    .box5 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+
+            border-radius: 20px;
+            height: 100px;
+            background-color: #026e87;
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 21px;
+            text-align: center;
+            line-height: 90px; /* centers text vertically */
+        }
+    .box6 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+            height: 100px;
+            background-color: #ffd900dc;
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 21px;
+
+            border-radius: 20px;
+            text-align: center;
+            line-height: 90px; /* centers text vertically */
+        }
+    .box7 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+            height: 100px;
+            background-color:#ff00a2;
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 25px;
+
+            border-radius: 20px;
+            text-align: center;
+            line-height: 90px; /* centers text vertically */
+        }
+    .box8 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+            height: 100px;
+            background-color: #8a2be2;
+            /* border: 2px solid black; */
+            padding: 20px;
+            text-align: center;
+            margin:21px;
+            line-height: 90px; /* centers text vertically */
+            border-radius: 20px;
+        }
+        .box9 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+            height: 100px;
+            background-color: #a92764;
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 21px;
+            text-align: center;
+            border-radius: 20px;
+
+            line-height: 90px; /* centers text vertically */
+        }
+    .box10 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+            height: 100px;
+            background-color: rgb(255, 166, 0);
+
+            border-radius: 20px;
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 21px;
+            text-align: center;
+            line-height: 90px; /* centers text vertically */
+        }
+    .box11 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+
+            border-radius: 20px;
+            height: 100px;
+            background-color: rgb(4, 255, 0);
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 21px;
+            text-align: center;
+            line-height: 90px; /* centers text vertically */
+        }
+    .box12 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+
+            border-radius: 20px;
+            height: 100px;
+            background-color: rgb(95, 60, 60);
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 21px;
+            text-align: center;
+            line-height: 90px; /* centers text vertically */
+        }
+    .box13 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+            height: 100px;
+            background-color: rgb(242, 255, 0);
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 21px;
+
+            border-radius: 20px;
+            text-align: center;
+            line-height: 90px; /* centers text vertically */
+        }
+    .box14 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+            height: 100px;
+            background-color: rgb(255, 0, 106);
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 25px;
+
+            border-radius: 20px;
+            text-align: center;
+            line-height: 90px; /* centers text vertically */
+        }
+    
+    .box15 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+            height: 100px;
+            background-color: lightcoral;
+            /* border: 2px solid black; */
+            padding: 20px;
+            text-align: center;
+            margin:21px;
+            line-height: 90px; /* centers text vertically */
+            border-radius: 20px;
+        }
+        .box16 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+            height: 100px;
+            background-color: rgb(255, 0, 0);
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 21px;
+            text-align: center;
+            border-radius: 20px;
+
+            line-height: 90px; /* centers text vertically */
+        }
+    .box17 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+            height: 100px;
+            background-color: rgb(0, 112, 13);
+
+            border-radius: 20px;
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 21px;
+            text-align: center;
+            line-height: 90px; /* centers text vertically */
+        }
+    .box18 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+
+            border-radius: 20px;
+            height: 100px;
+            background-color: rgb(255, 119, 0);
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 21px;
+            text-align: center;
+            line-height: 90px; /* centers text vertically */
+        }
+    .box19 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+
+            border-radius: 20px;
+            height: 100px;
+            background-color: rgb(210, 233, 145);
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 21px;
+            text-align: center;
+            line-height: 90px; /* centers text vertically */
+        }
+    .box20 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+            height: 100px;
+            background-color: rgb(0, 247, 255);
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 21px;
+
+            border-radius: 20px;
+            text-align: center;
+            line-height: 90px; /* centers text vertically */
+        }
+    .box21 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+            height: 100px;
+            background-color: rgb(155, 116, 34);
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 25px;
+
+            border-radius: 20px;
+            text-align: center;
+            line-height: 90px; /* centers text vertically */
+        }
+    
+    .box22 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+            height: 100px;
+            background-color: rgb(132, 21, 113);
+            /* border: 2px solid black; */
+            padding: 20px;
+            text-align: center;
+            margin:21px;
+            line-height: 90px; /* centers text vertically */
+            border-radius: 20px;
+        }
+        .box23 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+            height: 100px;
+            background-color: rgb(38, 0, 255);
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 21px;
+            text-align: center;
+            border-radius: 20px;
+
+            line-height: 90px; /* centers text vertically */
+        }
+    .box24 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+            height: 100px;
+            background-color: rgba(204, 25, 112, 0.845);
+
+            border-radius: 20px;
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 21px;
+            text-align: center;
+            line-height: 90px; /* centers text vertically */
+        }
+    .box25 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+
+            border-radius: 20px;
+            height: 100px;
+            background-color: rgb(199, 43, 181);
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 21px;
+            text-align: center;
+            line-height: 90px; /* centers text vertically */
+        }
+    .box26 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+
+            border-radius: 20px;
+            height: 100px;
+            background-color: rgb(194, 27, 27);
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 21px;
+            text-align: center;
+            line-height: 90px; /* centers text vertically */
+        }
+    .box27 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+            height: 100px;
+            background-color: rgb(238, 245, 92);
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 21px;
+
+            border-radius: 20px;
+            text-align: center;
+            line-height: 90px; /* centers text vertically */
+        }
+    .box28 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+            height: 100px;
+            background-color: rgb(75, 51, 0);
+            /* border: 2px solid black; */
+            padding: 20px;
+            margin: 25px;
+            border-radius: 20px;
+            text-align: center;
+            line-height: 90px; /* centers text vertically */
+        }
+    .box29 {
+            display: inline-block;   /* makes span act like a box */
+            width: 100px;
+            height: 100px;
+            background-color: rgb(0, 0, 0);
+            color: white;
+            /* border: 2px solid black; */
+            padding: 20px;
+            text-align: center;
+            margin:21px;
+            line-height: 90px; /* centers text vertically */
+            border-radius: 20px;
+        }
+    
+    
+    
